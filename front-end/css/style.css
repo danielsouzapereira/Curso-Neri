@@ -70,3 +70,7 @@
       .bd-mode-toggle {
         z-index: 1500;
       }
+      h1{
+        text-align: center;
+        margin-top: 10px;
+      }
